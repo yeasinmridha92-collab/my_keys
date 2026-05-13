@@ -1,8 +1,32 @@
 [
   {
-    "device_id": "317e79798425f81f",
+    "device_id": "0a8aefcdf2c840d1",
     "key": "Noface",
-    "expirydate": "31-12-2027",
+    "expirydate": "31-12-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "317e79798425f81f",
+    "key": "FriendKey2025",
+    "expirydate": "31-12-2025",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device_003_xyz",
+    "key": "PremiumUser",
+    "expirydate": "01-06-2027",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "device_004_123",
+    "key": "LifetimePass",
+    "expirydate": "31-12-2030",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device_005_test",
+    "key": "TrialKey",
+    "expirydate": "30-09-2024",
+    "Allowoffline": false
   }
 ]
